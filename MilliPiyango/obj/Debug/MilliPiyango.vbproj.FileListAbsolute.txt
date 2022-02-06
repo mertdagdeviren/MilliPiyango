@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\MilliPiyango\bin\Debug\MilliPiyango.exe.config
+C:\Users\Mert\source\repos\MilliPiyango\bin\Debug\MilliPiyango.exe
+C:\Users\Mert\source\repos\MilliPiyango\bin\Debug\MilliPiyango.pdb
+C:\Users\Mert\source\repos\MilliPiyango\bin\Debug\MilliPiyango.xml
+C:\Users\Mert\source\repos\MilliPiyango\obj\Debug\MilliPiyango.vbprojAssemblyReference.cache
+C:\Users\Mert\source\repos\MilliPiyango\obj\Debug\MilliPiyango.Form1.resources
+C:\Users\Mert\source\repos\MilliPiyango\obj\Debug\MilliPiyango.Resources.resources
+C:\Users\Mert\source\repos\MilliPiyango\obj\Debug\MilliPiyango.vbproj.GenerateResource.cache
+C:\Users\Mert\source\repos\MilliPiyango\obj\Debug\MilliPiyango.vbproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\MilliPiyango\obj\Debug\MilliPiyango.exe
+C:\Users\Mert\source\repos\MilliPiyango\obj\Debug\MilliPiyango.xml
+C:\Users\Mert\source\repos\MilliPiyango\obj\Debug\MilliPiyango.pdb
